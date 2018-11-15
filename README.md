@@ -3,7 +3,10 @@
 # Final year Software Project
 #
 #
-# Social Modifications - Objectives from Project Proposal
+# Social Modifications - A social network for people with tattoos and piercings
+#
+#
+# Objectives from Project Proposal
 # 
 # The objective of this project is to create a social networking web application. An Android application (app) is expected to be created with the same information as the web application.
 #
